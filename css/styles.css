@@ -12,6 +12,7 @@
     font-size: 1px;
     line-height: 1px;
 }
+
 #game_board div.alive {
     background-color: darkslategrey;
 }
