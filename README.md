@@ -9,8 +9,11 @@ So please, look through the commits, give me some feedback, let's improve our un
 Thanks!
 
 ## wanna give it a try?
+1. check out https://game-of-life-js.herokuapp.com
 
-1. Right now, just clone this repo and run it on your local browser... 
+or
+
+1. clone this repo and run it on your local browser... 
 1. click the squares on the grid to create an initial state, and press start!
 1. to get you started... here are a couple of fun shapes to get you started!
 
